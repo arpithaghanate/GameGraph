@@ -3,7 +3,7 @@ Analysing video game sales trends
 
 
 
-![image](https://user-images.githubusercontent.com/29608089/228639642-6dfa8d0f-a575-45a7-a384-c8d05043f77b.png)
+[![image](https://user-images.githubusercontent.com/29608089/228639642-6dfa8d0f-a575-45a7-a384-c8d05043f77b.png)](https://cdn.vox-cdn.com/thumbor/-XpttBLXw27GW7Q6z0rirvlfSME=/0x0:1000x665/1200x675/filters:focal(420x253:580x413):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68484426/game_count.0.gif)
 
 
 ## Goal 
