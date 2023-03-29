@@ -1,5 +1,7 @@
 # GameGraph
+Analysing video game sales trends
 ![image](https://user-images.githubusercontent.com/29608089/228639642-6dfa8d0f-a575-45a7-a384-c8d05043f77b.png)
+
 
 ## Goal 
 The goal of this project is to understand and explore the relationship between sales of video games and various factors such as their genre, platform, publisher, release year, and rating; while also identifying trends and changes in the video game industry over time, including shifts in popular genres or the impact of new technologies.
