@@ -1,5 +1,8 @@
 # GameGraph
 Analysing video game sales trends
+
+
+
 ![image](https://user-images.githubusercontent.com/29608089/228639642-6dfa8d0f-a575-45a7-a384-c8d05043f77b.png)
 
 
